@@ -1,0 +1,14 @@
+layout_spectrum: 0.4670631
+typography_spectrum: 0.683332
+color:
+  saturation: 0.7532825
+  lightness: 0.9093933
+  brandStrength: 0.928519
+  rhythmicContrast: 0.3681955
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: AvilaEnterprises
