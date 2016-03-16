@@ -1,14 +1,28 @@
-layout_spectrum: 0.4670631
-typography_spectrum: 0.683332
-color:
-  saturation: 0.7532825
-  lightness: 0.9093933
-  brandStrength: 0.928519
-  rhythmicContrast: 0.3681955
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
 name: AvilaEnterprises
+favicon: null
+layout_spectrum: 0.50271
+typography_spectrum: 0.683332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0a9311'
+    - '#0e0307'
+    - '#5edceb'
+    - '#d0cd0e'
+    - '#e26334'
+  brandStrength: 0.928519
+  lightness: 0.9093933
+  saturation: 0.7532825
+  rhythmicContrast: 0.3681955
+purpose: []
