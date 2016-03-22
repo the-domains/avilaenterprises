@@ -4,7 +4,7 @@
         <description><![CDATA[ENTREPRENEURSHIPS ]]></description>
         <link>https://thegrid.ai/avilaenterprises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 09:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 10:30:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avilaenterprises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/avilaenterprises/f275762c-bea1-4b7d-a448-8d01891edfc5/index.html</link>
             <guid isPermaLink="false">f275762c-bea1-4b7d-a448-8d01891edfc5</guid>
             <pubDate>Wed, 16 Mar 2016 07:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brussels Airport Attack: Live Blog]]></title>
+            <description><![CDATA[<article><h1>Brussels Airport Attack: Live Blog</h1><p>From Yahoo News: Two explosions have ripped through Brussels airport during the rush hour causing several casualties. Follow all the latest in our live blog:</p><img src="https://s.yimg.com/bt/api/res/1.2/0rncPEdGAGhTiJj1LJWBpA--/YXBwaWQ9eW5ld3NfbGVnbztpbD1wbGFuZTtxPTc1O3c9NjAw/https://media.zenfs.com/creatr-images/GLB/2016-03-22/bf7fd630-f00f-11e5-b048-03647ab7d2e3_21ea55461a7d6fbcff8aea3753d1c99b.jpg"></article>]]></description>
+            <link>https://news.yahoo.com/brussels-airport-attack-live-blog-082011604.html</link>
+            <guid isPermaLink="false">a90469b7-8cf3-41d9-8a30-853eca9bba10</guid>
+            <pubDate>Tue, 22 Mar 2016 10:29:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LockSmith Service !!!]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/avilaenterprises/adjusting-balance/index.html</link>
             <guid isPermaLink="false">fb4c97da-42d9-4add-b556-5fdcb770f736</guid>
             <pubDate>Sun, 20 Mar 2016 06:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rock Star Life]]></title>
-            <description><![CDATA[<article><h1>Rock Star Life</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f80a2f5f9e91054ae32a050d75beec0c74a4c5b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/avilamarketing/</link>
-            <guid isPermaLink="false">6c29bb67-ed0e-4248-ae08-153ff79c20b5</guid>
-            <pubDate>Sun, 20 Mar 2016 04:19:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
