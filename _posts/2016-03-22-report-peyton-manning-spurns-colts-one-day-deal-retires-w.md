@@ -26,8 +26,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.cbssports.com/nfl/eye-on-football/25525375/report-peyton-manning-spurns-colts-one-day-deal-retires-with-broncos'
 title: "Report: Peyton Manning spurns Colts' one-day deal, retires with Broncos"
-datePublished: '2016-03-22T10:34:37.265Z'
-dateModified: '2016-03-22T10:31:42.138Z'
+datePublished: '2016-03-22T20:01:43.859Z'
+dateModified: '2016-03-22T19:58:51.172Z'
 sourcePath: _posts/2016-03-22-report-peyton-manning-spurns-colts-one-day-deal-retires-w.md
 published: true
 inFeed: true
