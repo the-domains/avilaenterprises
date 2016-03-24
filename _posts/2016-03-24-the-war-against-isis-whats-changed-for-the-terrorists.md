@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.yahoo.com/news/the-war-against-isis--what-s-changed-for-the-terrorists-210326726.html'
 title: "The war against ISIS: What's changed for the terrorists"
-datePublished: '2016-03-24T06:45:47.893Z'
-dateModified: '2016-03-24T06:41:53.474Z'
+datePublished: '2016-03-24T07:39:05.426Z'
+dateModified: '2016-03-24T06:55:51.665Z'
 sourcePath: _posts/2016-03-24-the-war-against-isis-whats-changed-for-the-terrorists.md
 published: true
 inFeed: true
