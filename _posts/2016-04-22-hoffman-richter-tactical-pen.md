@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://survivallife.com/cb/stinger_pen/'
 title: Hoffman Richter Tactical Pen
-datePublished: '2016-04-22T04:42:36.297Z'
-dateModified: '2016-04-22T04:42:10.440Z'
+datePublished: '2016-04-22T04:51:30.222Z'
+dateModified: '2016-04-22T04:48:39.222Z'
 sourcePath: _posts/2016-04-22-hoffman-richter-tactical-pen.md
 published: true
 inFeed: true
